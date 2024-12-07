@@ -1,0 +1,13 @@
+# ninja log v6
+1	360	7551347511391356	CMakeFiles/MyFirstTriangle.dir/main.cpp.obj	832ce2a31e91aea6
+1420	1521	7551357698702629	MyFirstTriangle.exe	47ed5d9745a85297
+4	1419	7551357684548496	CMakeFiles/MyFirstTriangle.dir/src/main.cpp.obj	ced9e515f8c3d300
+2	228	7551358145114694	build.ninja	1f225a07a8b52c0d
+4	1732	7551361413405077	CMakeFiles/MyFirstTriangle.dir/src/main.cpp.obj	ced9e515f8c3d300
+1732	1829	7551361430684090	MyFirstTriangle.exe	47ed5d9745a85297
+4	1777	7551361559152394	CMakeFiles/MyFirstTriangle.dir/src/main.cpp.obj	ced9e515f8c3d300
+1777	1874	7551361576885620	MyFirstTriangle.exe	47ed5d9745a85297
+4	1786	7551363904814522	CMakeFiles/MyFirstTriangle.dir/src/main.cpp.obj	ced9e515f8c3d300
+1786	1884	7551363922635320	MyFirstTriangle.exe	47ed5d9745a85297
+4	1683	7551364956086027	CMakeFiles/MyFirstTriangle.dir/src/main.cpp.obj	ced9e515f8c3d300
+1684	1783	7551364972881036	MyFirstTriangle.exe	47ed5d9745a85297
