@@ -1,2 +1,2 @@
 # C-Graphics-and-Animation-Workshop
-Okulumuzda gerçekleşen workshopta yaptığım projeler
+From the workshop we had in our school 
